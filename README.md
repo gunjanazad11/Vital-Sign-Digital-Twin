@@ -247,10 +247,3 @@ https://vitaldb.net/
 - Hospital-scale deployment
 - Multi-patient monitoring dashboard
 
-
-## Future Scope
-
-- Real-time deployment
-- Explainable AI
-- Transformer models
-- IoT integration
