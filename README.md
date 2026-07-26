@@ -1,4 +1,4 @@
-## 🩺 Reliability-Aware Self-Correcting Digital Twin for Clinical Vital Sign Validation & Health Risk Assessment
+## Reliability-Aware Self-Correcting Digital Twin for Clinical Vital Sign Validation & Health Risk Assessment
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-GRU-orange)
@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-## 📖 Overview
+## Overview
 
 Continuous patient monitoring systems often suffer from noisy sensor readings, missing values, motion artifacts, and intermittent signal failures. These unreliable measurements can lead to inaccurate clinical decisions and false alarms.
 
@@ -16,7 +16,7 @@ The project combines time-series forecasting, reliability estimation, self-corre
 
 ---
 
-# ✨ Features
+# Features
 
 - ✅ VitalDB dataset preprocessing
 - ✅ Missing value handling and normalization
@@ -31,7 +31,7 @@ The project combines time-series forecasting, reliability estimation, self-corre
 
 ---
 
-# 🏗 Repository Structure
+# Repository Structure
 
 ```text
 HEALTH_INFO/
@@ -75,7 +75,7 @@ HEALTH_INFO/
 
 ---
 
-# 🔄 Workflow
+# Workflow
 
 ```
 VitalDB Dataset
@@ -107,7 +107,7 @@ Visualization & Dashboard
 
 ---
 
-# 🧠 Methodology
+# Methodology
 
 ### 1. Data Preprocessing
 
@@ -156,7 +156,7 @@ Patients are categorized into:
 
 ---
 
-# 📊 Technologies Used
+# Technologies Used
 
 | Category | Technology |
 |-----------|------------|
@@ -170,7 +170,7 @@ Patients are categorized into:
 
 ---
 
-# 📈 Project Outputs
+# Project Outputs
 
 The system generates:
 
@@ -189,7 +189,7 @@ data/results/
 
 ---
 
-# 🚀 Installation
+# Installation
 
 Clone the repository
 
@@ -223,7 +223,7 @@ streamlit run app/streamlit_app.py
 
 ---
 
-# 📊 Dataset
+# Dataset
 
 **VitalDB**
 
@@ -235,7 +235,7 @@ https://vitaldb.net/
 
 ---
 
-# 🔮 Future Scope
+# Future Scope
 
 - Real-time patient monitoring
 - ECG integration
