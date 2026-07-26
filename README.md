@@ -198,7 +198,7 @@ data/results/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Vital-Sign-Digital-Twin.git
+git clone https://github.com/gunjanazad11/Vital-Sign-Digital-Twin.git
 ```
 
 Move into the project directory
