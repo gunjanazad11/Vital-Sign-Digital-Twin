@@ -15,6 +15,10 @@ This project presents a **Reliability-Aware Self-Correcting Digital Twin** that 
 The project combines time-series forecasting, reliability estimation, self-correction, and health risk assessment into a single intelligent healthcare monitoring pipeline.
 
 ---
+## Dashboard
+
+![Dashboard](assets/full_dashboard_dark.png)
+---
 
 # Features
 
@@ -194,13 +198,13 @@ data/results/
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/HEALTH_INFO.git
+git clone https://github.com/YOUR_USERNAME/Vital-Sign-Digital-Twin.git
 ```
 
 Move into the project directory
 
 ```bash
-cd HEALTH_INFO
+cd Vital-Sign-Digital-Twin
 ```
 
 Install dependencies
